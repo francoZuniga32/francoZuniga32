@@ -8,17 +8,17 @@ Programó web de forma autodidacta, actualmente me enfoco en backend, pero me de
 
 ---
 
-Estadisticas
+## Estadisticas
 
 ![](https://github-readme-stats.vercel.app/api?username=francoZuniga32&show_icons=true&hide_border=true)
 
 ---
 
-## Lenguajes y Herramientas
+## Lenguajes
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoZuniga32)
 
-
+## 
 
 [][Top Langs]
 

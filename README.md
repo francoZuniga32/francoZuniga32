@@ -2,7 +2,7 @@
 
 ---
 
-## Hola soy franco, Estudiante en la Facultad de Informatica, programador, entusiasta del codigo y divulgador.  
+## Hola soy franco, Estudiante en la Facultad de Informatica, programador y entusiasta del codigo.  
 
 Programó web de forma autodidacta, actualmente me enfoco en backend, pero me defiendo en el frontend. Me interesa el mundo linux y el open source es por eso que comencé la Tecnicatura en Administracion de Sistemas y Software Libre. Unas de las cosas que me gustan del Open Source es el hecho de que posee un enfoque científico a la hora de compartir código y proyectos. 
 

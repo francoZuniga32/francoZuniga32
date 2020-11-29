@@ -4,7 +4,13 @@
 
 ## Hola soy franco, Estudiante en la Facultad de Informatica, Backend Developer, Administrador de Linux.  
 
-Programó web de forma autodidacta, actualmente me enfoco en backend, pero me defiendo en el frontend. Me interesa el mundo linux y el open source es por eso que comencé la Tecnicatura en Administracion de Sistemas y Software Libre. Unas de las cosas que me gustan del Open Source es el hecho de que posee un enfoque científico a la hora de compartir código y proyectos. 
+Hola soy franco, Estudiante en la Facultad de Informática, Full Stack Developer y Administrador de Linux.
+Soy programador web autodidacta, actualmente me estoy enfocando en backend, pero tengo y actualizo mis conocimientos sobre frontend. Me interesa el mundo linux y el open source es por eso que comencé la Tecnicatura en Administración de Sistemas y Software Libre. 
+
+Unas de las cosas que me gustan del Open Source es el hecho de que posee un enfoque científico a la hora de programar, beneficiando la industria y la tecnología. Es por esto que este perfil, contendrá ejemplos, proyectos, y cursos sobre el mundo de la programación web y linux. 
+
+Espero que me apoye con un [cafecito](https://cafecito.app/francozuniga), o siguiendo este perfil.
+
 
 ---
 
@@ -17,12 +23,3 @@ Programó web de forma autodidacta, actualmente me enfoco en backend, pero me de
 ## Lenguajes
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoZuniga32)
-
-## 
-
-[][Top Langs]
-
-
-
-
-

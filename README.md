@@ -9,8 +9,7 @@ Soy programador web autodidacta, actualmente me estoy enfocando en backend, pero
 
 Unas de las cosas que me gustan del Open Source es el hecho de que posee un enfoque científico a la hora de programar, beneficiando la industria y la tecnología. Es por esto que este perfil, contendrá ejemplos, proyectos, y cursos sobre el mundo de la programación web y linux. 
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/francozuniga) 
----
+[![](icon/gorjeo.png)]() [![](icon/instagram.png)]() [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/francozuniga) 
 
 ## Estadisticas
 

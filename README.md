@@ -1,6 +1,6 @@
-# Franco Agustin Ojeda Zuñiga
+# Franco Agustin Ojeda Zuñiga 💻
 
----
+<img height="320px" src="img/coberGithub.png" alt="cover" />
 
 ## Hola soy franco, Estudiante en la Facultad de Informatica, Backend Developer, Administrador de Linux.  
 

@@ -20,3 +20,5 @@ Unas de las cosas que me gustan del Open Source es el hecho de que posee un enfo
 ## Lenguajes
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoZuniga32)
+
+[![asciicast](https://asciinema.org/a/383772.svg)](https://asciinema.org/a/383772)

@@ -1,6 +1,6 @@
 # #Franco Agustin Ojeda Zuñiga 💻
 
-<img height="320px" src="img/coberGithub.png" alt="cover" />
+![cover](img/franco.gif)
 
 ## Hola soy franco, Backend Developer, Administrador de Linux.  
 

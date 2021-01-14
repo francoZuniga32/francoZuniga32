@@ -47,5 +47,19 @@
 
 ```
 
- 
+ # Vercion 2
+
+## Hola soy franco zuñiga, soy programador full stack y administrador de linux.
+
+![GitHub followers](https://img.shields.io/github/followers/francoZuniga32?style=social) ![Instagram](https://img.shields.io/badge/Instagram-Perfil-red)
+
+### Sobre mis cosas personales:
+
+  - 👨🏽‍💻 Actualmente estoy trabajando en Cooking Beats :wink:;
+  - 🌱 Aprendiendo CMS [Strapi.io](https://strapi.io/). 
+  - 💬 Consultame cualquier cosa , encantado te dare una mano;
+  - 📫 Contactame en: franco.ojeda@est.fi.uncoma.edu.ar
+  - 📝[Resume ES](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+
+### Lenguajes y Herramientas
 

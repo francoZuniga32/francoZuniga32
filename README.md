@@ -62,7 +62,7 @@
   - 📝 [Resume ES](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view), [](https://img.shields.io/badge/Instagram-Perfil-red)
 
 ### Lenguajes de esta semana
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francoZuniga32)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francozuniga32)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

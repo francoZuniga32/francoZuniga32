@@ -61,9 +61,11 @@
   - 📫 Contactame en: franco.ojeda@est.fi.uncoma.edu.ar
   - 📝 [Resume ES](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view), [](https://img.shields.io/badge/Instagram-Perfil-red)
 
-### Lenguajes y Herramientas
+### Lenguajes de esta semana
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
-![Java Script](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png)
+
+
 
 
 

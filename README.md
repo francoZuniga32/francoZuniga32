@@ -1,16 +1,50 @@
-# #Franco Agustin Ojeda Zuñiga 💻
+```json
+{
+	'name' : 'Franco Agustin Ojeda Zuñiga',
+    'age' : 22,
+    'occupation' : ['Student', 'Frelancer', 'entrepreneur'],
+    'languages And Skill' : {
+  		'HTML' : 95, 
+        'CSS' : 75, 
+        'JS' : 90, 
+        'NodeJS' : 65, 
+        'SQL' : 50, 
+        'python' : 45,
+        'Git' : 75,
+        'Express.js' : 50,
+        'Strapi' : 25,
+        'Nuxt.js' : 15,
+        'Vue.js' : 25,
+        'Linux' : 80
+    },
+    'proyects':[
+        {
+            'name' : 'Cookin Beats',
+            'descripcion' : 'Marketplace of instrumentales for shoping music.',
+            'link' : 'cookingbeats.ar'
+        },
+        {
+            'name' : 'CEFAI web',
+            'descripcion' : 'web site of schedules for Center of Student the Computer Science faculty. Actually i´m not participe in the develop.',
+            'link' : 'http://cefai.fi.uncoma.edu.ar/'
+        },
+        {
+            'name' : 'introduccion a the System Administration (WEB).',
+            'descripcion' : 'introduccion a the System Administration for the Tecnicatura Universitaria the System Administration and Software Free, in the Science Computer Faculty, at the University Nacional de Comahue.',
+            'link' : '<actually not deployed, project in process>'
+        }
+    ],
+    'social networks and contact': {
+        'social networks' : {
+            'Instagram' : 'https://www.instagram.com/franco.zuniga32/',
+            'Hashnode' : 'https://francozuniga32.hashnode.dev/',
+        },
+        'contact' : {
+            'Email' : 'franco.ojeda@est.fi.uncoma.edu.ar'
+        }
+	}
+}
+```
 
-![cover](img/franco.gif)
-
-## Hola soy franco, Backend Developer, Administrador de Linux.  
-
-
-
-## Redes, Contacto, y apollo
-
- [![instagram](icon/instagram.png)]() [![Invitame un café en cafecito.app](icon/cafesito.png)](https://cafecito.app/francozuniga) [![hashnode](icon/hashnode.png)](https://francozuniga32.hashnode.dev/) [![](icon/gmail.png)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=franco.ojeda@est.fi.uncoma.edu.ar&su=Contactar&tf=1) 
-
-## Lenguajes
-
-![html5](icon/sprite_0.png)![css3](icon/sprite_1.png)![JavaScript](icon/sprite_2.png)![nodeJS](icon/sprite_3.png)![MySql](icon/sprite_4.png)![Boostrap](icon/sprite_5.png)![Linux](icon/sprite_6.png) 
+ 
 

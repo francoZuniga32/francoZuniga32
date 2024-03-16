@@ -5,5 +5,3 @@
 i like linux, and backend technologies. i have been programming for 4 year, with front end technologies, but lately I am focusing on backend programming and linux administration.
 
 I have experience in html, css, javascript, nodejs, php, MySQL, and frameworks  como express, nuxt js, vue js and srtapi.io. 
-
-I hope what you find here is helpful. You can apollarme by following me on instagram, github, reading my blog posts, or inviting me for a [cafesito](https://cafecito.app/francozuniga).

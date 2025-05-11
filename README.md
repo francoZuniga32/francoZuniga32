@@ -2,6 +2,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/francoZuniga32?style=social) [![Instagram](https://img.shields.io/badge/Instagram-Perfil-red)](https://www.instagram.com/franco.zuniga32/)   [![Blog](https://img.shields.io/badge/HashNode-blog-blue)](https://francozuniga32.github.io/)
 
-i like linux, and backend technologies. i have been programming for 4 year, with front end technologies, but lately I am focusing on backend programming and linux administration.
+Buenas soy franco zuñiga, programador web y estudiante en administración de sistemas. Me gusta linux, nodejs, y la programación backend. 
 
-I have experience in html, css, javascript, nodejs, php, MySQL, and frameworks  como express, nuxt js, vue js and srtapi.io. 
+Me gusta automatizar cosas (por que soy tremendo vago), jugar maincraft y tomar mate.  Estoy trabajando actualmente programando aplicaciones web y móviles para la industria del oil & gas entre otras.
+
+Espero que mis proyectos te sean de utilidad. 
